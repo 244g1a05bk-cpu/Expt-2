@@ -20,7 +20,7 @@ System.out.println("Perimeter of Square:"+perimeter);
 }
 }
 ```
-#output:
+# output:
 ![output of Square](SQUARE.png)
 
 
@@ -46,7 +46,7 @@ System.out.println("Result of adding three integers:"+obj.add(40,50,60));
 }
 }
 ```
-#output:
+# output:
 ![output of integers](addition.png)
 
 # Expt-2c
